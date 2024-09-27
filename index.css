@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono&display=swap');
+
+*{
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    background: white;
+}
+    button{
+        color:white;
+        margin-right:10%;
+        margin-left: 10%;
+        font-size: 20px;
+        padding:12px 30px;
+        border-radius: 15px;
+    }
+
+    .plan{
+    display:inline-block;
+    background: #ff764e;
+
+}
+    .learn{
+    display:inline-block;
+    background: #5ED3EB;
+}
+    .get{
+    display:inline-block;
+    background: #ffcd69;
+}
+
+.logo{
+    margin-left: 5%;
+    height: 20%;
+    width: 20%;
+    border-radius:50%;
+    vertical-align: middle;
+}
+
+.rightside{
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+}
+.fire{
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+p{
+    margin:10%;
+    font-size: 24px;
+}
+
+.fire_text{
+    margin: 
+}
+.rv{
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+h2{
+font-family: 'Chelsea Market', Arial;
+}
+
+.btext{
+    background: #ddb9a3;
+    
+}
+
+body{
+font-family: 'Roboto Mono', Arial;
+margin:0 auto;
+}
+
+.footerpic{
+    vertical-align: middle;
+    width: 100%;
+}
+.ftnav{
+    background: #f9e7dc;
+}
